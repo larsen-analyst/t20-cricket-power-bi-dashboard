@@ -75,8 +75,11 @@ t20-cricket-power-bi-dashboard/
 
 ## Dashboard Preview
 
-> Screenshots of the dashboard are available in the `/screenshots` folder.
-
+![Overview Page](screenshots/overview.png)
+![Trend Analysis](screenshots/trends_Eng_vs_Aus.png)
+![Trend Analysis](screenshots/trends_Eng_vs_India.png)
+![Trend Analysis](screenshots/trends_2016_to_2026.png)
+![Trend Analysis](screenshots/trends_2016to2026_against_NewZealand.png)
 ---
 
 ## How to Run
