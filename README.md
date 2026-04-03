@@ -95,7 +95,7 @@ pip install -r requirements.txt
 python scripts/data_prep.py
 
 # Open the dashboard
-# Open dashboard/t20_dashboard.pbix in Power BI Desktop
+# Open t20_dashboard.pbix in Power BI Desktop
 ```
 
 ---
