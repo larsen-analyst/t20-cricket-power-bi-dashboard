@@ -75,11 +75,11 @@ t20-cricket-power-bi-dashboard/
 
 ## Dashboard Preview
 
-![Overview Page](screenshots/overview.png)
-![Trend Analysis](screenshots/trends_Eng_vs_Aus.png)
-![Trend Analysis](screenshots/trends_Eng_vs_India.png)
-![Trend Analysis](screenshots/trends_2016_to_2026.png)
-![Trend Analysis](screenshots/trends_2016to2026_against_NewZealand.png)
+![Overview](screenshots/overview.png)
+![Trends 2016 to 2026](screenshots/trends_2016_to_2026.png)
+![Trends vs New Zealand](screenshots/trends_2016to2026_against_NewZealand.png)
+![England vs Australia](screenshots/trends_Eng_vs_Aus.png)
+![England vs India](screenshots/trends_Eng_vs_India.png)
 ---
 
 ## How to Run
